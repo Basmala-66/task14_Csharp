@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\basma\\Desktop\\depi tasks\\c#\\task 14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72D54340-D652-48BC-8FEB-77DFEAC27CB6}|task 14\\task 14.csproj|c:\\users\\basma\\desktop\\depi tasks\\c#\\task 14\\task 14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D54340-D652-48BC-8FEB-77DFEAC27CB6}|task 14\\task 14.csproj|solutionrelative:task 14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D54340-D652-48BC-8FEB-77DFEAC27CB6}|task 14\\E-commerce System.csproj|c:\\users\\basma\\desktop\\depi tasks\\c#\\task 14\\task 14\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D54340-D652-48BC-8FEB-77DFEAC27CB6}|task 14\\E-commerce System.csproj|solutionrelative:task 14\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D54340-D652-48BC-8FEB-77DFEAC27CB6}|task 14\\E-commerce System.csproj|c:\\users\\basma\\desktop\\depi tasks\\c#\\task 14\\task 14\\migrations\\20261002121335_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D54340-D652-48BC-8FEB-77DFEAC27CB6}|task 14\\E-commerce System.csproj|solutionrelative:task 14\\migrations\\20261002121335_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D54340-D652-48BC-8FEB-77DFEAC27CB6}|task 14\\E-commerce System.csproj|c:\\users\\basma\\desktop\\depi tasks\\c#\\task 14\\task 14\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D54340-D652-48BC-8FEB-77DFEAC27CB6}|task 14\\E-commerce System.csproj|solutionrelative:task 14\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D54340-D652-48BC-8FEB-77DFEAC27CB6}|task 14\\E-commerce System.csproj|c:\\users\\basma\\desktop\\depi tasks\\c#\\task 14\\task 14\\e-commerce system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{72D54340-D652-48BC-8FEB-77DFEAC27CB6}|task 14\\E-commerce System.csproj|solutionrelative:task 14\\e-commerce system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D54340-D652-48BC-8FEB-77DFEAC27CB6}|task 14\\E-commerce System.csproj|c:\\users\\basma\\desktop\\depi tasks\\c#\\task 14\\task 14\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D54340-D652-48BC-8FEB-77DFEAC27CB6}|task 14\\E-commerce System.csproj|solutionrelative:task 14\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D54340-D652-48BC-8FEB-77DFEAC27CB6}|task 14\\E-commerce System.csproj|c:\\users\\basma\\desktop\\depi tasks\\c#\\task 14\\task 14\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D54340-D652-48BC-8FEB-77DFEAC27CB6}|task 14\\E-commerce System.csproj|solutionrelative:task 14\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D54340-D652-48BC-8FEB-77DFEAC27CB6}|task 14\\E-commerce System.csproj|c:\\users\\basma\\desktop\\depi tasks\\c#\\task 14\\task 14\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D54340-D652-48BC-8FEB-77DFEAC27CB6}|task 14\\E-commerce System.csproj|solutionrelative:task 14\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D54340-D652-48BC-8FEB-77DFEAC27CB6}|task 14\\E-commerce System.csproj|c:\\users\\basma\\desktop\\depi tasks\\c#\\task 14\\task 14\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D54340-D652-48BC-8FEB-77DFEAC27CB6}|task 14\\E-commerce System.csproj|solutionrelative:task 14\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1318,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Desktop\\depi tasks\\c#\\task 14\\task 14\\Program.cs",
+              "RelativeDocumentMoniker": "task 14\\Program.cs",
+              "ToolTip": "C:\\Users\\basma\\Desktop\\depi tasks\\c#\\task 14\\task 14\\Program.cs*",
+              "RelativeToolTip": "task 14\\Program.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAMwDYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T11:34:47.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Desktop\\depi tasks\\c#\\task 14\\task 14\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "task 14\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\basma\\Desktop\\depi tasks\\c#\\task 14\\task 14\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "task 14\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAlwBwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T11:51:41.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Desktop\\depi tasks\\c#\\task 14\\task 14\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "task 14\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\basma\\Desktop\\depi tasks\\c#\\task 14\\task 14\\Entities\\Category.cs",
+              "RelativeToolTip": "task 14\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T11:42:44.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20261002121335_initial.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Desktop\\depi tasks\\c#\\task 14\\task 14\\Migrations\\20261002121335_initial.cs",
+              "RelativeDocumentMoniker": "task 14\\Migrations\\20261002121335_initial.cs",
+              "ToolTip": "C:\\Users\\basma\\Desktop\\depi tasks\\c#\\task 14\\task 14\\Migrations\\20261002121335_initial.cs",
+              "RelativeToolTip": "task 14\\Migrations\\20261002121335_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T12:13:35.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "E-commerce System",
+              "DocumentMoniker": "C:\\Users\\basma\\Desktop\\depi tasks\\c#\\task 14\\task 14\\E-commerce System.csproj",
+              "RelativeDocumentMoniker": "task 14\\E-commerce System.csproj",
+              "ToolTip": "C:\\Users\\basma\\Desktop\\depi tasks\\c#\\task 14\\task 14\\E-commerce System.csproj",
+              "RelativeToolTip": "task 14\\E-commerce System.csproj",
+              "ViewState": "AgIAAAIAAAAAcRzHcRznvxEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-02T11:52:51.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Desktop\\depi tasks\\c#\\task 14\\task 14\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "task 14\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\basma\\Desktop\\depi tasks\\c#\\task 14\\task 14\\Entities\\Customer.cs",
+              "RelativeToolTip": "task 14\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T11:45:47.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Desktop\\depi tasks\\c#\\task 14\\task 14\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "task 14\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\basma\\Desktop\\depi tasks\\c#\\task 14\\task 14\\Entities\\Order.cs",
+              "RelativeToolTip": "task 14\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T11:45:52.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Desktop\\depi tasks\\c#\\task 14\\task 14\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "task 14\\Entities\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\basma\\Desktop\\depi tasks\\c#\\task 14\\task 14\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "task 14\\Entities\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T11:46:33.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Desktop\\depi tasks\\c#\\task 14\\task 14\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "task 14\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\basma\\Desktop\\depi tasks\\c#\\task 14\\task 14\\Entities\\Product.cs",
+              "RelativeToolTip": "task 14\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T11:38:26.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
